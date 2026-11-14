@@ -1,4 +1,4 @@
-👋 Hi there! I'm Vogulam Harshavardhan Reddy.<br><br>About :<br>⚡ A passionate Data Scientist and Analyst based in Hyderabad, United India. With a Master's in Data Science from Northumbria University and a Bachelor's in Computer Science and Engineering from JNTUH, I have developed a robust foundation in data science, Machine learning, and Deep learning.<br><br>🌱 I’m currently learning LLMs <br><br>⚡ I love diving deep into data and finding patterns that others might miss, creating intelligent models that can predict the future.🌟💻<br><br>📫 Reach me at: harshavogulam@gmail.com 
+👋 Hi there! I'm Vogulam Harshavardhan Reddy.<br><br>About :<br>⚡ A passionate ML engineer based in Hyderabad, United India. With a Master's in Data Science from Northumbria University and a Bachelor's in Computer Science and Engineering from JNTUH, I have developed a robust foundation in data science, Machine learning, and Deep learning.<br><br>🌱 I’m currently learning LLMs <br><br>⚡ I love diving deep into data and finding patterns that others might miss, creating intelligent models that can predict the future.🌟💻<br><br>📫 Reach me at: harshavogulam@gmail.com 
 
 
 ## 🌐 Socials:
